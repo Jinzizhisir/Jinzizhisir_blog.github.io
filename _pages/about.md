@@ -19,13 +19,15 @@ redirect_from:
 
 I am currently a security researcher and an ethical hacker in <a href="https://www.lixiang.com/">Li Auto</a>. My research interests span AI security, sensor security, and system security in autonomous driving and robots.
 
-I obtained my Ph.D. from Zhejiang University in 2025, supervised by Wenyuan Xu, Xiaoyu Ji and Chen Yan. Before that, I also received my B.Eng. in 2020 from the College of Electrical Engineering at Zhejiang University.
-
+I obtained my Ph.D. from Zhejiang University in 2025, supervised by  <a href="https://scholar.google.com/citations?hl=en&user=FCsdj0YAAAAJ/">Wenyuan Xu</a>,   <a href="https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en&oi=ao/">Xiaoyu Ji</a> and <a href="https://cyansec.com//">Chen Yan</a>. Before that, I also received my B.Eng. in 2020 from the College of Electrical Engineering at Zhejiang University.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🧑‍🎓🎉 Successfully defended my PhD thesis — we did it! 
+- *2024.12*: &nbsp;📑🎉 One paper is accepted by Internet of Things Journal. 
+- *2024.08*: &nbsp;📑🎉 **PhantomLiDAR** is accepted by NDSS 2025. 
+- *2023.12*: &nbsp;📑🎉 **Unity is Strength** is accepted by The WebConf 2024. 
+- *2022.06*: &nbsp;📑🎉 **PLA-LiDAR** is accepteed by S&P Oakland 2023. 
 
 # 📝 Publications 
 
