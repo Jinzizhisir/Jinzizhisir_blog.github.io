@@ -23,11 +23,17 @@ I obtained my Ph.D. from Zhejiang University in 2025, supervised by  <a href="ht
 
 
 # 🔥 News
+<style>
+  .scrollable {
+    max-height: 260px; /* 设置最大高度 */
+    overflow-y: scroll; /* 设置垂直滚动条 */
+  }
+</style>
 - *2025.06*: &nbsp;🧑‍🎓🎉 Successfully defended my PhD thesis — we did it! 
-- *2024.12*: &nbsp;📑🎉 One paper is accepted by Internet of Things Journal. 
-- *2024.08*: &nbsp;📑🎉 **PhantomLiDAR** is accepted by NDSS 2025. 
-- *2023.12*: &nbsp;📑🎉 **Unity is Strength** is accepted by The WebConf 2024. 
-- *2022.06*: &nbsp;📑🎉 **PLA-LiDAR** is accepteed by S&P Oakland 2023. 
+- *2024.12*: &nbsp;📑🎉 One paper is accepted by IEEE Internet of Things Journal. 
+- *2024.08*: &nbsp;📑🎉 **PhantomLiDAR** is accepted by Network and Distributed System Security (NDSS) Symposium 2025. 
+- *2023.12*: &nbsp;📑🎉 **Unity is Strength** is accepted as **Oral** presentation by The WebConf 2024. 
+- *2022.06*: &nbsp;📑🎉 **PLA-LiDAR** is accepted by IEEE Symposium on Security and Privacy (S&P) 2023. 
 
 # 📝 Publications 
 
@@ -46,16 +52,18 @@ I obtained my Ph.D. from Zhejiang University in 2025, supervised by  <a href="ht
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06* Outstanding Graduate of Zhejiang University. 
+- *2020.06* Outstanding Graduate of Zhejiang University
+- *2020.06* Outstanding Graduate of Zhejiang Province (2/65). 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2025.06*, Ph.D., Zhejiang University. 
+- *2016.09 - 2020.06*, B.Eng., College of Electrical Engineering, Zhejiang University. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.06*, . 
+- *2021.03*, .
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+{% # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.%}
